@@ -99,9 +99,9 @@ www.jiandanxinli.com###bottom_msg
 |mkan.666ccc.com/js/fuli.js
 
 ! 一听音乐 听jazz 专辑右边的空白、打赏按钮、无用的推荐栏、评论栏
-|www.1ting.com##.tingx_1
-|www.1ting.com##.tingx_2
-|www.1ting.com##.tingx_3
-|www.1ting.com###cy-reward-click
-|www.1ting.com##.userbox
-|www.1ting.com##.comment
+www.1ting.com##.tingx_1
+www.1ting.com##.tingx_2
+www.1ting.com##.tingx_3
+www.1ting.com###cy-reward-click
+www.1ting.com##.userbox
+www.1ting.com##.comment
